@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:,100:fcfcfc&height=120&text=정지호%20깃허브&animation=&fontColor=1f1f1f&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:,100:6e6e6e&height=120&text=정지호%20깃허브&animation=&fontColor=e3e3e3&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 정지호 깃허브입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저수준의 추상화를 이해하고, 수치를 통해 결정하며, 재정의 후 기록하는 엔지니어를 지향합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>   저수준의 추상화를 이해하고, 수치를 통해 결정하며, 재정의 후 기록하는 엔지니어를 지향합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
